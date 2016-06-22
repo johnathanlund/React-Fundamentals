@@ -20,7 +20,8 @@
   "homepage": "https://github.com/johnathanlund/React-Fundamentals#readme",
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
